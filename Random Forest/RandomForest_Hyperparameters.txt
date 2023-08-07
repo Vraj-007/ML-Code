@@ -1,0 +1,5 @@
+https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+
+
+max_samples --> 50% to 75% gives best result
+BootStrap --> Generally it's value us true
